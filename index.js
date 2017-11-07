@@ -36,8 +36,6 @@ module.exports = function(options) {
               newUrl = newUrl.replace(replace[0],replace[1]);
             }
           }
-
-          return newUrl.replace('//', '/');
         }
       }))
       .toString();
