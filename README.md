@@ -1,13 +1,14 @@
 gulp-css-url-adjuster
 =====================
 
-## Please consider using gulp-rework
+## Installation
 
-https://github.com/sindresorhus/gulp-rework
+```bash
+npm install --save-dev gulp-css-replace-url
 
-https://github.com/trentearl/gulp-css-url-adjuster/issues/20#issuecomment-109732884
+```
 
-
+## Usage
 ---
 
 This package allows gulp to change css urls
@@ -19,7 +20,7 @@ css file:
 }
 ```
 ```js
-var urlAdjuster = require('gulp-css-url-adjuster');
+var urlAdjuster = require('gulp-css-replace-url');
 
 gulp.src('style.css').
   pipe(urlAdjuster({

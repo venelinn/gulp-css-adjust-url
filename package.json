@@ -1,5 +1,5 @@
 {
-  "name": "gulp-css-url-adjuster",
+  "name": "gulp-css-replace-url",
   "version": "0.2.3",
   "description": "Adjust urls inside css",
   "main": "index.js",
@@ -17,7 +17,7 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/casualrelaxation/gulp-css-url-adjuster.git"
+    "url": "git://github.com/venelinn/gulp-css-adjust-url.git"
   },
 
   "keywords": [
