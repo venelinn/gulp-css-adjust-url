@@ -1,6 +1,6 @@
 {
   "name": "gulp-css-replace-url",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "Adjust urls inside css",
   "main": "index.js",
 
